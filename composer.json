@@ -1,0 +1,11 @@
+{
+    "name": "bonnafous/composite",
+    "description": "Exemple de pattern composite au travers d'un arbre DOM avec des éléments simples et composés",
+    "authors": [
+        {
+            "name": "François Bonnafous",
+            "email": "francois.bonnafous@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
